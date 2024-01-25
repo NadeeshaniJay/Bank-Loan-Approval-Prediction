@@ -2,7 +2,6 @@
 
 • Group Members:  
                   Jayarathne G.U.T.N.C.
-                  
                   Jayasinghe D.M.S.N. 
                   
 • Project Title:  Bank Loan Approval Prediction
@@ -32,11 +31,8 @@ d. Missing Data Handling: There is no missing data.
 • Algorithm:
 
 a. Selected Algorithms:
-
             • Logistic Regression
-            
             • Decision Tree
             
 b. Availability of Algorithms:
-
             • In Python, there are two widely used libraries for implementing logistic regression and decision tree algorithms. They are scikit-learn and statsmodels.
